@@ -1,0 +1,7 @@
+Xây dựng mô hình K-láng giềng gần
+Công bố nguồn cơ sở dữ liệu các em chuẩn bị
+Cơ sở lý thuyết, ý nghĩa tập dữ liệu - phân tích được tập dữ liệu, số dòng, số cột, dữ liệu để làm gì? Code
+Khoảng 15 phút ~ 15-20 slides 
+
+kich hoat moi truong ao
+.\.venv\Scripts\Activate
