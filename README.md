@@ -39,7 +39,7 @@ Mô hình KNN được huấn luyện và đánh giá trên cả hai bộ dữ l
 ## Cách sử dụng
 
 1. Clone repository về máy của bạn: `https://github.com/taiiswibu/model_KNN.git`
-2. Cài đặt các thư viện cần thiết: pip install -r yeucau.txt
+2. Cài đặt các thư viện cần thiết: `pip install -r yeucau.txt`
 3. Di chuyển vào thư mục dự án: `cd KNN`
 4. Chạy notebook Jupyter hoặc các tập lệnh Python có sẵn để thực thi các tác vụ.
 
