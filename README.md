@@ -10,11 +10,13 @@ so sánh hai mẫu đó , và đánh giá mô hình KNN phù hợp thế nào
 ### Iris
 
 Bộ dữ liệu Iris chứa thông tin về ba loài hoa Iris: Iris Setosa, Iris Versicolor và Iris Virginica. Mỗi loài có 50 mẫu, với mỗi mẫu có 4 đặc trưng: chiều dài đài hoa, chiều rộng đài hoa, chiều dài cánh hoa và chiều rộng cánh hoa.
+
 ![Ví dụ về Iris flower dataset](https://machinelearningcoban.com/assets/knn/iris.png)
 
 ### Wine
 
 Bộ dữ liệu Wine chứa thông tin về ba loại rượu: Class 0, Class 1 và Class 2. Bộ dữ liệu này có 178 mẫu và mỗi mẫu có 13 đặc trưng hóa học.
+
 ![Hình ảnh minh họa về Wine dataset](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vietnam_Dalat_wine_%28white%29.jpg/1200px-Vietnam_Dalat_wine_%28white%29.jpg)
 
 ## Phân loại với KNN
@@ -46,4 +48,4 @@ Mô hình KNN được huấn luyện và đánh giá trên cả hai bộ dữ l
 - Tên: [Vỏ Văn Tài](https://github.com/taiiswibu)
   
 #Tài liệu tham khảo
-- [](https://machinelearningcoban.com/2017/01/08/knn/)
+- [tài liệu tham khảo](https://machinelearningcoban.com/2017/01/08/knn/)
