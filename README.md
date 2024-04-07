@@ -34,7 +34,7 @@ Mô hình KNN được huấn luyện và đánh giá trên cả hai bộ dữ l
 ## Yêu cầu
 
 - Python 3.x
-- Các thư viện Python cần thiết được liệt kê trong yeucau.txt.
+- Các thư viện Python cần thiết được liệt kê trong file yeucau.txt.
 
 ## Cách sử dụng
 
