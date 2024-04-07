@@ -15,7 +15,7 @@ Bộ dữ liệu Iris chứa thông tin về ba loài hoa Iris: Iris Setosa, Iri
 ### Wine
 
 Bộ dữ liệu Wine chứa thông tin về ba loại rượu: Class 0, Class 1 và Class 2. Bộ dữ liệu này có 178 mẫu và mỗi mẫu có 13 đặc trưng hóa học.
-![Hình ảnh minh họa về Wine dataset](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.pngtree.com%2Ffreebackground%2Fsmall-collection-of-wine-bottles-with-labels_13297167.html&psig=AOvVaw1TqgWh-ibhXAvUK4R4FxUR&ust=1712547992656000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj4l6H4rYUDFQAAAAAdAAAAABAE)
+![Hình ảnh minh họa về Wine dataset](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vietnam_Dalat_wine_%28white%29.jpg/1200px-Vietnam_Dalat_wine_%28white%29.jpg)
 
 ## Phân loại với KNN
 
